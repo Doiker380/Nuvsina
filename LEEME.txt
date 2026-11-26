@@ -1,0 +1,6 @@
+CARTA DE CUMPLEAÑOS PARA ARY
+1. Extrae el ZIP completo y abre index.html en el navegador.
+2. Edita textos.js con Bloc de notas o VS Code. Cambia los textos entre comillas invertidas y guarda. No borres la estructura.
+3. Recarga la página para ver los cambios.
+4. Para compartir por GitHub Pages, sube todos los archivos y la carpeta assets a la raíz de un repositorio y activa Pages en Settings > Pages. Comprueba antes que Ary esté de acuerdo con compartir las capturas; un sitio público puede ser visto por otras personas.
+No requiere instalación, fuentes externas ni servidor. No incluye música; los iconos musicales son decorativos. Las ilustraciones son generadas y las capturas son las originales convertidas a WebP.
